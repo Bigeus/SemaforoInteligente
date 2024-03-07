@@ -23,9 +23,9 @@ link para vídeo pitch do projeto (pt-br):
 [link para o vídeo](https://youtu.be/r7Uv0IGvRPQ?si=xWfFHKO5xU9oqK-p)
 
 ### Esquemas e Componentes:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](image.png) `image.png`
+![alt text](image-1.png) `image-1.png`
+![alt text](image-2.png) `image-2png`
 
 _______________________________________________________________________________________________________________________________________________
 
